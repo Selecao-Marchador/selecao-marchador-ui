@@ -4,12 +4,12 @@
       Seleção Marchador
     </header>
     <main>
-      <img src="images/sm1.jpeg" alt="Banner"/>
+      <img src="/images/sm1.jpeg" alt="Banner"/>
     </main>
     <footer>
       <p class="text-center text-xl font-bold text-green-400">
         Seja bem vindo ao nosso site!
       </p>
     </footer>
-  </div>  
+  </div>
 </template>
